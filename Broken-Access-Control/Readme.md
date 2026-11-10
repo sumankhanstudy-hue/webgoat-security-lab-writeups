@@ -370,42 +370,8 @@ After completing the Broken Access Control section in OWASP WebGoat, the key lea
 - Understanding the importance of server-side access control.
 - Learning security measures to prevent unauthorized access.
 
-## 11. Evidence and Screenshots
 
-Practical screenshots should be included to demonstrate the lab work.
-
-| Screenshot | Description |
-|---|---|
-| 01 | OWASP WebGoat application |
-| 02 | Broken Access Control lesson |
-| 03 | Relevant HTTP request in Burp Suite |
-| 04 | Access control testing evidence |
-| 05 | Completed WebGoat exercise |
-
-Add your actual screenshots to the `screenshots` directory.
-
-You can display them in this report using:
-
-```markdown
-## Screenshots
-
-### 1. WebGoat Application
-![WebGoat Application](screenshots/01-webgoat-broken-access-control.png)
-
-### 2. Broken Access Control Lesson
-![Broken Access Control](screenshots/02-lab-exercise.png)
-
-### 3. HTTP Request Analysis
-![HTTP Request](screenshots/03-http-request.png)
-
-### 4. Access Control Testing
-![Access Control Testing](screenshots/04-access-control-testing.png)
-
-### 5. Lab Completion
-![Lab Completion](screenshots/05-lab-completion.png)
-```
-
-## 12. Conclusion
+## 11. Conclusion
 
 Completing the Broken Access Control section in OWASP WebGoat provided practical learning experience in understanding authorization weaknesses in web applications.
 
